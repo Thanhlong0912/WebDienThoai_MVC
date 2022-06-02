@@ -1,0 +1,520 @@
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csprojResolveAssemblyReference.cache
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+C:\Users\Hien\Desktop\ShopOnline2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csprojResolveAssemblyReference.cache
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb
+C:\Users\RyoSama\Desktop\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\CKFinder.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csprojResolveAssemblyReference.cache
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+C:\Users\RyoSama\Desktop\WEB2\ShopOnline\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.AssemblyReference.cache
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+C:\Users\ThanhLong\Downloads\ShopOnline-master\ShopOnline-master\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.AssemblyReference.cache
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.CoreCompileInputs.cache
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+D:\Công nghệ web\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\ApplicationInsights.config
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\csc.exe
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\vbc.exe
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll.config
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\DoAn_ShopOnline.pdb
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Owin.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\WebGrease.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.Web.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\PagedList.Mvc.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Helpers.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Mvc.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Optimization.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.Razor.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.AssemblyReference.cache
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.dll
+C:\Users\ThanhLong\Desktop\WebDienThoai_MVC\DoAn_ShopOnline\DoAn_ShopOnline\obj\Debug\DoAn_ShopOnline.pdb

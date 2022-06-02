@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ShopOnlineConnection.GioHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<h1>Phiếu Đặt Hàng : </h1>
+<form style="width:100%; margin:auto;" method="post" action="~/ThanhToan/Them"> 
+    <input type="Text" style="width:50%; margin-left:25%;" maxlength="50" placeholder="Nhập tên người nhận" required name="nguoinhan"/> <br />
+    <input type="number" style="width:50%; margin-left:25%;" maxlength="12" placeholder="Nhập số điện thoại người nhận" required name="sdt" /> <br/>
+    <input type="Text" style="width:50%; margin-left:25%;" maxlength="50" placeholder="Nhập địa chỉ người nhận" required name="diachi" /> <br />
+    <span style="width:50%; margin-left:25%;" name="tongtien">Tổng tiền : @ViewBag.TongTien</span><br />
+    <input style="width:50%; margin-left:25%;" type="submit" value="Đặt hàng" />
+</form>
+<hr style="height:40px;" />
+@foreach (var item in Model)
+{
+    // từ bên shop.details . Gửi ma san pham , ten san pham va gia san pham
+    // tu db lay len so luong . soluong * gia ra tien . Cong tat ca tien ra tong tien
+    <div class="row">
+        <div class="product well">
+            <div class="col-md-3">
+                <div class="image">
+                    @Html.Partial("_AvartaDetails", DoAn_ShopOnline.Models.BUS.ShopOnlineBUS.LoadAvartaImg(item.MaSanPham.ToString()))
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="caption">
+                     @Html.Partial("_GioHang", DoAn_ShopOnline.Models.BUS.ShopOnlineBUS.ChiTiet(item.MaSanPham.ToString()))
+                     <label>Số lượng : </label> <span>@item.SoLuong</span> <br />
+                    <span>Tổng tiền : @item.TongTien</span>
+                    <hr>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+}
+
